@@ -48,5 +48,3 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 - Special thanks to the developers of [EmojiOne](https://www.emojione.com/) for their fantastic emoji artwork.
 
 Enjoy using Discord Emojis and have a great time expressing yourself in your Discord chats! 😄🎉
-
-Copy code
